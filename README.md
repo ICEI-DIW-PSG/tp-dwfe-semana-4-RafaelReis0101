@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Eustáquio Maia Reis
+- Matricula: 927756
+- Proposta de projeto escolhida: Organizações e Equipes (3)
+- Breve descrição sobre seu projeto: Refazer o site da equipe HAAS TGR, mudando a estrutura do site para melhor organização (com código próprio)
 
 
 ## Print do(s) wireframe(s) criado
