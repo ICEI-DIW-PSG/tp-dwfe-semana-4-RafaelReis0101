@@ -95,3 +95,31 @@ article h1 strong {
     margin-bottom: 20px;
 }
 
+
+.imagensnoticia {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.carrossel {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+button.esq,
+button.dir {
+    background: #8d8d8d;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
