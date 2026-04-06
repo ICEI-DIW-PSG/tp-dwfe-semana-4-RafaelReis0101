@@ -95,7 +95,6 @@ article h1 strong {
     margin-bottom: 20px;
 }
 
-
 .imagensnoticia {
     display: flex;
     gap: 20px;
@@ -122,4 +121,30 @@ button.dir {
     border-radius: 50%;
     height: 50px;
     width: 50px;
+}
+.newsletter {
+width: 91.5%;
+background-color: white;
+align-items: center;
+height: 200px;;
+justify-content: center;
+margin: auto;
+}
+.email {
+margin: auto;
+    display: flex;
+    align-items: right;
+    background: #e6e6e6;
+    border-radius: 10px;
+    padding: 20px 600px;
+    border: 1px;
+    
+}
+footer {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
